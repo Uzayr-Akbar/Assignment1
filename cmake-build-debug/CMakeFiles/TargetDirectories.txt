@@ -1,0 +1,3 @@
+/Users/uzayrakbar/Desktop/Assignment1/cmake-build-debug/CMakeFiles/Assignment1.dir
+/Users/uzayrakbar/Desktop/Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/uzayrakbar/Desktop/Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
